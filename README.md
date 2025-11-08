@@ -4,11 +4,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-3.3.3-38bdf8.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-> Create stunning AI-generated art with an intuitive, beautiful interface
-
-[Live Demo](#) | [Report Bug](https://github.com/rohithreddy5250/AI-Art-Gallery/issues) | [Request Feature](https://github.com/rohithreddy5250/AI-Art-Gallery/issues)
-
-
 ## Features
 
 - **AI Art Generation**: Create unique artwork from text prompts

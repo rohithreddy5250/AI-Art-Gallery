@@ -1,4 +1,4 @@
-# 🎨 AI Art Gallery
+# AI Art Gallery
 
 ![React](https://img.shields.io/badge/React-18.2.0-blue.svg)
 ![Tailwind](https://img.shields.io/badge/Tailwind-3.3.3-38bdf8.svg)
@@ -8,22 +8,17 @@
 
 [Live Demo](#) | [Report Bug](https://github.com/rohithreddy5250/AI-Art-Gallery/issues) | [Request Feature](https://github.com/rohithreddy5250/AI-Art-Gallery/issues)
 
-## 📸 Screenshots
 
-![AI Art Gallery Homepage](https://via.placeholder.com/800x400/6366f1/ffffff?text=Add+Your+Screenshot+Here)
+## Features
 
-*Add actual screenshots of your application here*
+- **AI Art Generation**: Create unique artwork from text prompts
+- **Beautiful Gallery**: Browse and discover AI-generated art
+- **Save & Download**: Save your favorite creations
+- **Like & Share**: Engage with the community
+- **Responsive Design**: Works perfectly on all devices
+- **Fast & Intuitive**: Smooth user experience with modern UI
 
-## ✨ Features
-
-- 🎨 **AI Art Generation**: Create unique artwork from text prompts
-- 🖼️ **Beautiful Gallery**: Browse and discover AI-generated art
-- 💾 **Save & Download**: Save your favorite creations
-- ❤️ **Like & Share**: Engage with the community
-- 📱 **Responsive Design**: Works perfectly on all devices
-- ⚡ **Fast & Intuitive**: Smooth user experience with modern UI
-
-## 🚀 Demo
+## Demo
 
 Try it live: [AI Art Gallery Demo](#)
 
@@ -32,7 +27,7 @@ Example prompts to try:
 - "Futuristic city with flying cars at sunset"
 - "Abstract cosmic landscape with vibrant colors"
 
-## 🛠️ Built With
+## Built With
 
 - **Frontend Framework**: React 18.2
 - **Styling**: Tailwind CSS
@@ -40,7 +35,7 @@ Example prompts to try:
 - **Build Tool**: Vite
 - **AI Integration**: Ready for Stable Diffusion API integration
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 
@@ -106,7 +101,7 @@ const handleGenerate = async () => {
 - **Hugging Face Inference API**
 - **Replicate**
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 AI-Art-Gallery/
@@ -123,7 +118,7 @@ AI-Art-Gallery/
 └── .gitignore
 ```
 
-## 🎯 Usage
+##  Usage
 
 ### Creating AI Art
 
@@ -138,7 +133,7 @@ AI-Art-Gallery/
 - **Download**: Hover over image and click download button
 - **Share**: Share your creations with others
 
-## 🚀 Deployment
+## Deployment
 
 ### Deploy to Vercel
 
@@ -180,7 +175,7 @@ npm run build
 - [ ] Social sharing features
 - [ ] Mobile app version
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -190,11 +185,11 @@ Contributions are welcome! Here's how you can help:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+##  Author
 
 **Rohith Reddy**
 
@@ -202,14 +197,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - LinkedIn: [rohithreddyy](https://linkedin.com/in/rohithreddyy)
 - Email: rohithreddybaddam8@gmail.com
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Lucide Icons](https://lucide.dev/) for beautiful icons
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [Unsplash](https://unsplash.com/) for placeholder images
 - Inspiration from modern AI art platforms
 
-## 📊 Stats
+## Stats
 
 ![GitHub Stars](https://img.shields.io/github/stars/rohithreddy5250/AI-Art-Gallery?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/rohithreddy5250/AI-Art-Gallery?style=social)
